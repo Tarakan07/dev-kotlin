@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EbatiEtoKotlin</string>
+    <string name="text_second">My stringggg</string>
+    <string name="MyApppeee">TextView</string>
+    <string name="random_from">Random 0 from %1d</string>
+    <string name="Random">R</string>
+
+</resources>
